@@ -60,7 +60,7 @@
     "leaflet-polylinedecorator": "^1.6.0",
     "leaflet.markercluster": "^1.4.1",
     "lodash": "^4.17.14",
-    "lodash-es": "^4.17.14",
+    "lodash-es": "^4.17.21",
     "mdbootstrap": "^4.12.0",
     "mdbreact": "^4.25.0",
     "moment": "^2.24.0",
